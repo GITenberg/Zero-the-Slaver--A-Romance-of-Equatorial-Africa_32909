@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36102'
     url: http://www.gutenberg.org/2009/agents/36102
 description: 'Sequel to Into the Unknown, #32912.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32909#Zero-the-Slaver--A-Romance-of-Equatorial-Africa
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
