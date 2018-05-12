@@ -1,0 +1,25 @@
+_repo: Zero-the-Slaver--A-Romance-of-Equatorial-Africa_32909
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fletcher, Lawrence
+    gutenberg_agent_id: '36102'
+    url: http://www.gutenberg.org/2009/agents/36102
+description: 'Sequel to Into the Unknown, #32912.'
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: 'Zero the Slaver: A Romance of Equatorial Africa'
+url: http://www.gutenberg.org/ebooks/32909
